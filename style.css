@@ -22,6 +22,8 @@ body {
     transition: transform .4s;
 }
 
+
+/* Zoom effect when hover */
 .box:hover {
     transform: scale(1.1);
     box-shadow: 0 0 15px 10px black;
@@ -46,6 +48,7 @@ body {
     
 }
   
+/* class to call on .js to make appear the element */
 .pop.appear {
     transform: translateY(0);
     opacity: 1;
