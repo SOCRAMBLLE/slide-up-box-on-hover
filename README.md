@@ -1,5 +1,5 @@
 # Pop-Up Element on mouse hover 
-Code to a Box with a popup element that appear on mouse hover.
+Code to create a Box with a popup element that appear on mouse hover.
 
 <div align="center"><img src="/preview.gif"></div>
 
